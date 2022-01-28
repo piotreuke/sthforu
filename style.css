@@ -34,6 +34,7 @@
     animation: animateHeart 1.2s infinite;
     
   }
+  
   .heart::after {
     background-color: red;
     content: "";
@@ -56,23 +57,5 @@
   }
 
   body {
-      background-color: black;
+    background-color: black;
   }
-  @keyframes jump {
-    0%   {transform: translate3d(0,0,0) ;}
-    40%  {transform: translate3d(0,50%,0) ;}
-    100% {transform: translate3d(0,100%,0) ;}
-  }
-  .love {
-    transform-origin: 50% 50%;
-    animation: jump 5.5s linear alternate infinite;
-  }
-
-  .love {
-      color: red;
-      font-family: 'Dongle', sans-serif;
-      font-size: 120px;
-      text-align: center;
-      
-  }
-  

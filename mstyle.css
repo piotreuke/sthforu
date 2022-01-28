@@ -1,0 +1,116 @@
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+    text-align: center;
+    color: #cc2929;
+  }
+
+  .first {
+    width: auto;
+    height: 300px;
+    margin-top: -150px;
+  }
+
+  .second {
+      width: auto;
+      height: 300px;
+      float: right;
+      margin-top: -150px;
+      
+  }
+  
+  .third {
+      width: auto;
+      height: 400px;
+      margin-right: 200px;
+      margin-top: 50px;
+      
+  }
+
+  .fourth {
+    width: auto;
+    height: 400px;
+    
+    
+  }
+
+  .fifth {
+      width: auto;
+      height: 400px;
+      margin-left: 150px;
+  }
+
+  .sixth {
+      width: auto;
+      height: 400px;
+      float: right;
+      margin-left: 150px;
+      margin-top: 50px;
+  }
+
+  .seventh {
+    width: auto;
+    height: 300px;
+    margin-top: -130px;
+  }
+
+  .eight {
+    width: auto;
+    height: 300px;
+    margin-top: -130px;
+    float: right;
+  }
+
+  .twelve {
+    width: auto;
+    height: 400px;
+    float: right;
+    margin-left: 140px;
+    margin-top: 50px;
+  }
+
+  .nineth {
+    width: auto;
+    height: 300px;
+    margin-top: -140px;
+    margin-bottom: 30px;
+  }
+
+  .tenth {
+    width: auto;
+    height: 300px;
+    margin-top: -140px;
+    float: right;
+    margin-bottom: 30px;
+  }
+
+  
+  h2 {
+      z-index: 4;
+      transform: translate(0px, 50px);
+      text-align: center;
+      color: wheat;
+      
+  }
+
+  .last {
+    width: auto;
+    height: 400px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: auto;
+    
+}
+
+.lastt {
+    width: 1000px;
+    height: auto;
+    margin-left: 220px;
+    
+    
+}
+
+body {
+    background-color: black;
+}
